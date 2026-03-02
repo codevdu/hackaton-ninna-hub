@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Plataforma de Inovação Corporativa: Amontada Valley & Ninna Hub
 
-First, run the development server:
+Uma solução estratégica desenvolvida em parceria para conectar o ecossistema de startups às demandas reais do mercado corporativo. Esta plataforma facilita a Inovação Aberta, permitindo que grandes empresas lancem desafios e gerenciem o ciclo de vida de soluções disruptivas em um ambiente seguro e exclusivo.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 📌 Sobre o Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O objetivo central era otimizar a ponte entre corporações e startups. Através da plataforma, as empresas deixariam de buscar soluções de forma desordenada e passam a gerenciar processos de inovação com métricas e governança.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Principais Diferenciais:
+- Ambiente Administrativo: Cada corporação possui um dashboard dedicado para gestão de desafios.
+- Matching Estratégico: Filtros e critérios de seleção para encontrar as startups que melhor atendem às dores do negócio.
+- Gestão de Desafios: Fluxo completo, desde a publicação do edital/desafio até a seleção final.
 
-## Learn More
+🏢 Para Corporações
+- Dashboard de Controle: Visão geral de todos os desafios ativos e histórico de parcerias.
+- Lançamento de Desafios: Ferramenta intuitiva para descrever problemas, prazos e critérios de participação.
+- Gestão de Candidaturas: Avaliação de propostas enviadas pelas startups através de um sistema de funil de seleção.
 
-To learn more about Next.js, take a look at the following resources:
+🚀 Para Startups (Candidatas)
+- Acesso às oportunidades reais de grandes empresas.
+- Pitch deck e documentação centralizados.
+- Transparência sobre em qual etapa da seleção a startup se encontra.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/39f5e2e1-c73d-4204-a71f-a51486745a7b" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##### Acesso ao front: https://plataforma-inovacao-squad05-fronten.vercel.app/
